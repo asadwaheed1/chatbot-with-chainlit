@@ -1,5 +1,5 @@
 
-# Domain Agent Assignment PIAIC 255779
+### Chainlit Agent Assignment PIAIC 255779
 
 **Assalamualikum! To run the project you must have python installed and uv installed.**
 
@@ -13,5 +13,4 @@
 
 
 ## Screenshots
-
-![App Screenshot](https://github.com/user-attachments/assets/1e3a3798-485a-4fea-89f6-596af8a11eb4)
+![App Screenshot](https://github.com/user-attachments/assets/22ce28d4-e0b4-4ee9-82fb-40fc97600f1c)
